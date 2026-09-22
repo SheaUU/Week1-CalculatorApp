@@ -16,6 +16,3 @@ int result = firstNumber + secondNumber;
 
 //output the answer to the console
 Console.WriteLine("Adding {0} and {1} give the answer {2}", firstNumber, secondNumber, result);
-
-
-
